@@ -25,7 +25,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 - Tema amplo: `[Inclusão digital e redução de desigualdades]`
 - Objeto estudado: `[preencher]`
 - Contexto ou aplicação: `[A pandemia de Covid-19 escancarou esse cenário (quando milhões de alunos da rede pública ficaram sem aulas por falta de internet ou computador)]`
-- Aspecto que será analisado: `[preencher]`
+- Aspecto que será analisado: `[O combate a desigualdade e exclusão dos jovens que tem acesso limitado a internet]`
 - O que ficará fora do estudo: `[preencher]`
 
 ### Justificativa
