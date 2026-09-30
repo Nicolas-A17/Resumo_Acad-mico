@@ -14,7 +14,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? `[preencher]`
+- O que se deseja descobrir ou compreender? `[Como podemos melhorar e ]`
 - Qual é o objeto da pergunta? `[preencher]`
 - Qual é o contexto ou recorte? `[preencher]`
 - A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
@@ -36,4 +36,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Nicolas]` | `[preencher]` |
