@@ -7,8 +7,8 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `[Nicolas Alexandre de Freitas Assis]`
+- Data: `[30/09/2026]`
 
 ## Preenchimento
 
@@ -54,4 +54,4 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Nicolas]` | `[Tudo]` |
