@@ -14,23 +14,23 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`[Inclusão digital e redução de desigualdades]`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`[O impacto da exclusão digital na educação de jovens da periferia]`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
+- Tema amplo: `[Inclusão digital e redução de desigualdades]`
 - Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
+- Contexto ou aplicação: `[A pandemia de Covid-19 escancarou esse cenário (quando milhões de alunos da rede pública ficaram sem aulas por falta de internet ou computador)]`
 - Aspecto que será analisado: `[preencher]`
 - O que ficará fora do estudo: `[preencher]`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`[A inclusão digital é um dos pilares mais importantes para a redução de desigualdades sociais, econômicas e educacionais no século XXI. Em um mundo cada vez mais conectado, o acesso à internet e aos dispositivos tecnológicos deixou de ser um privilégio e passou a ser um direito fundamental para o exercício pleno da cidadania.Quando uma pessoa é excluída do ambiente digital, ela também é privada de oportunidades essenciais.]`
 
 ### Viabilidade
 
