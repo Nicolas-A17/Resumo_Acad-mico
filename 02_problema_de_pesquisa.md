@@ -6,7 +6,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+`[O impacto da exclusão digital na educação de jovens da periferia]`
 
 ## Pergunta de pesquisa
 
