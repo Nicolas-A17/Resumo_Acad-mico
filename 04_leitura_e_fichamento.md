@@ -9,7 +9,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 ## Identificação do artigo
 
 * Referência completa: `[SILVA, A. A.; et al. Educação e desigualdade digital: o impacto das políticas públicas na equidade de acesso e permanência escolar. Caderno Pedagógico, v. 22, n. 4, 2025]`
-* DOI ou URL: `[(https://ojs.studiespublicacoes.com.br/ojs/index.php/cadped/article/download/21979/12104/55815)]`
+* DOI ou URL: `[https://ojs.studiespublicacoes.com.br/ojs/index.php/cadped/article/download/21979/12104/55815]`
 * Base de origem: `[Cadernos Pedagógicos (Oasisbr / Google Acadêmico]`
 * Leitor responsável: `[Nicolas Assis]`
 * Data da leitura: `[03/10/2026]`
@@ -25,35 +25,35 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-`[falta de infraestrutura digital adequada (computadores, internet..) em ambiente doméstico afeta o desempenho escolar e amplia a desigualdade educacional entre estudantes concluintes do ensino médio de baixa renda]`
+`[A falta de infraestrutura digital (computadores, internet..) em ambiente doméstico afeta o desempenho escolar e amplia a desigualdade educacional entre estudantes concluintes do ensino médio de baixa renda]`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`[Analisar o impacto da exclusão digital, avaliando como o acesso restrito a tecnologias aprofunda as desvantagens educacionais desses jovens.]`
 
 ### Método utilizado
 
-`[preencher]`
+`[Comparação de desempenho em diferentes grupos socioeconômicos de acordo com o nível de acesso tecnológico disponível em seus domicílios.]`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`[Estudantes concluintes do ensino médio oriundos de famílias de baixa renda no Brasil, utilizando como base amostral o cotidiano]`
 
 ### Principais resultados
 
-`[preencher]`
+`[O estudo comprovou que apenas o acesso à internet pelo celular não garante ganhos expressivos no aprendizado formal. O diferencial estatístico na proficiência escolar e nas notas do ENEM ocorre quando o jovem possui a combinação de internet de qualidade e um computador em casa. A ausência dessa estrutura ampliou o abismo educacional pós-pandemia.]`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`[Aspectos qualitativos do cotidiano dos estudantes periféricos, como a qualidade da mediação pedagógica, o ambiente de estudo comunitário ou os fatores emocionais gerados pelo isolamento tecnológico.]`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`[Este estudo nos lembra, ao trazer dados estatísticos concretos e históricos que provam que a exclusão digital não é apenas um problema de comunicação, mas um fator estrutural que sabota o desempenho escolar e o ingresso de jovens da periferia no ensino superior.]`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`[A grande força do estudo está na robustez metodológica, que utiliza dados históricos para provar estatisticamente que o celular sozinho não resolve a exclusão digital. Concorda-se plenamente com o argumento de que a falta de um computador em casa sabota a igualdade de condições no vestibular. Como fragilidade, o texto deixa de lado a dimensão humana e as estratégias locais que os jovens da periferia criam para contornar essas limitações tecnológicas.]`
 
 ### Citação literal opcional
 
