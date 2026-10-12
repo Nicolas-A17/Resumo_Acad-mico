@@ -61,27 +61,27 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-`[A falta de infraestrutura digital (computadores, internet..) em ambiente doméstico afeta o desempenho escolar e amplia a desigualdade educacional entre estudantes concluintes do ensino médio de baixa renda]`
+`[Como a desigualdade de acesso às Tecnologias de Informação e Comunicação, impactou diretamente o desempenho e as notas das provas do ENEM de estudantes de baixa renda ao longo de quase uma década.]`
 
 ### Objetivo do estudo
 
-`[Analisar o impacto da exclusão digital, avaliando como o acesso restrito a tecnologias aprofunda as desvantagens educacionais desses jovens.]`
+`[Mensurar estatisticamente a relação entre a falta de infraestrutura digital domiciliar e a proficiência nas diferentes áreas do conhecimento do ENEM para estudantes em situação de vulnerabilidade.]`
 
 ### Método utilizado
 
-`[Comparação de desempenho em diferentes grupos socioeconômicos de acordo com o nível de acesso tecnológico disponível em seus domicílios.]`
+`[Estudo, utilizando análise estatística baseada nos microdados públicos do ENEM coletados entre os anos de 2015 e 2023.]`
 
 ### Contexto, amostra ou dados
 
-`[Estudantes concluintes do ensino médio oriundos de famílias de baixa renda no Brasil, utilizando como base amostral o cotidiano]`
+`[Amostra massiva composta por questionários socioeconômicos e notas de milhões de candidatos concluintes do Ensino Médio autodeclarados de baixa renda.]`
 
 ### Principais resultados
 
-`[O estudo comprova que apenas o acesso à internet pelo celular não garante ganhos expressivos no aprendizado formal. O diferencial estatístico na proficiência escolar e nas notas do ENEM ocorre quando o jovem possui a combinação de internet de qualidade e um computador em casa. A ausência dessa estrutura ampliou o abismo educacional pós-pandemia.]`
+`[Os dados revelam uma disparidade gritante. Candidatos sem computador ou acesso à internet de qualidade em casa obtiveram médias de proficiência significativamente menores no ENEM, consolidando a exclusão digital como um fator de retenção do acesso desses jovens ao ensino superior.]`
 
 ### Limitações apresentadas
 
-`[Aspectos qualitativos do cotidiano dos estudantes periféricos, como a qualidade da mediação pedagógica, o ambiente de estudo comunitário ou os fatores emocionais gerados pelo isolamento tecnológico.]`
+`[Por basear-se em microdados de exames nacionais, o estudo não consegue abordar algumas questões enfrentadas pelos estudantes no cotidiano escolar.]`
 
 ### Contribuição para o nosso artigo
 
@@ -89,7 +89,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Comentário crítico
 
-`[Concordo plenamente com o argumento de que a falta de um computador em casa sabota a igualdade de condições no vestibular. Entretanto como fragilidade, o texto deixa de lado a dimensão humana e as estratégias locais que os jovens da periferia criam para contornar essas limitações tecnológicas.]`
+`[A robustez dos dados de longo prazo deste artigo é essencial para tirar o debate do campo ideológico e provar, por números oficiais, que a falta de um computador em casa sabota diretamente as chances de o jovem periférico ingressar na universidade pública.]`
 
 
 
@@ -104,35 +104,35 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-`[A falta de infraestrutura digital (computadores, internet..) em ambiente doméstico afeta o desempenho escolar e amplia a desigualdade educacional entre estudantes concluintes do ensino médio de baixa renda]`
+`[A exclusão digital contemporânea no cenário pós-pandemia, caracterizada pela falta de dispositivos adequados, atuando como um entrave ao desenvolvimento educacional.]`
 
 ### Objetivo do estudo
 
-`[Analisar o impacto da exclusão digital, avaliando como o acesso restrito a tecnologias aprofunda as desvantagens educacionais desses jovens.]`
+`[Investigar as variadas dimensões da exclusão digital no território brasileiro e discutir a inclusão de forma que alinhem a infraestrutura física ao desenvolvimento do letramento tecnológico.]`
 
 ### Método utilizado
 
-`[Comparação de desempenho em diferentes grupos socioeconômicos de acordo com o nível de acesso tecnológico disponível em seus domicílios.]`
+`[Abordagem teórica, analítica e qualitativa. Com base em análise documental de marcos regulatórios e uma revisão sistemática da literatura científica publicada na última década.]`
 
 ### Contexto, amostra ou dados
 
-`[Estudantes concluintes do ensino médio oriundos de famílias de baixa renda no Brasil, utilizando como base amostral o cotidiano]`
+`[Panorama abrangente das desigualdades educacionais no Brasil, focando nas assimetrias entre escolas públicas de territórios vulnerabilizados e escolas privadas.]`
 
 ### Principais resultados
 
-`[O estudo comprova que apenas o acesso à internet pelo celular não garante ganhos expressivos no aprendizado formal. O diferencial estatístico na proficiência escolar e nas notas do ENEM ocorre quando o jovem possui a combinação de internet de qualidade e um computador em casa. A ausência dessa estrutura ampliou o abismo educacional pós-pandemia.]`
+`[O estudo conclui que a inclusão digital real depende obrigatoriamente do letramento tecnológico (saber usar de forma produtiva). O uso restrito da internet por smartphones com franquias limitadas de dados não capacita o jovem para fins educacionais avançados, ampliando o fosso de aprendizado.]`
 
 ### Limitações apresentadas
 
-`[Aspectos qualitativos do cotidiano dos estudantes periféricos, como a qualidade da mediação pedagógica, o ambiente de estudo comunitário ou os fatores emocionais gerados pelo isolamento tecnológico.]`
+`[O artigo foca prioritariamente no panorama geral e teórico das políticas públicas, carecendo de um detalhamento estatístico regionalizado mais aprofundado sobre o mercado de trabalho local.]`
 
 ### Contribuição para o nosso artigo
 
-`[O estudo nos lembra ao trazer dados estatísticos concretos e históricos que provam que a exclusão digital não é apenas um problema de comunicação, mas um fator estrutural que sabota o desempenho escolar e o ingresso de jovens da periferia no ensino superior.]`
+`[Valida a construção das nossas propostas de intervenção pedagógica, demonstrando que a escola periférica precisa focar na alfabetização digital crítica dos alunos para promover a real redução de desigualdades.]`
 
 ### Comentário crítico
 
-`[Concordo plenamente com o argumento de que a falta de um computador em casa sabota a igualdade de condições no vestibular. Entretanto como fragilidade, o texto deixa de lado a dimensão humana e as estratégias locais que os jovens da periferia criam para contornar essas limitações tecnológicas.]`
+`[O ponto forte do artigo é evidenciar o conceito de 'conectividade significativa'. Os autores estão corretos ao afirmar que sem internet ilimitada e educação para o uso das ferramentas digitais, o jovem da periferia continuará excluído do mercado de trabalho contemporâneo.]`
 
 ### Citação literal opcional
 
