@@ -39,15 +39,15 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Limitações apresentadas
 
-`[Aspectos qualitativos do cotidiano dos estudantes periféricos, como a qualidade da mediação pedagógica, o ambiente de estudo comunitário ou os fatores emocionais gerados pelo isolamento tecnológico.]`
+`[A análise apoia-se fortemente em dados estruturais e documentais, demandando pesquisas locais futuras para medir o impacto direto nas salas de aula de regiões específicas.]`
 
 ### Contribuição para o nosso artigo
 
-`[O estudo nos lembra ao trazer dados estatísticos concretos e históricos que provam que a exclusão digital não é apenas um problema de comunicação, mas um fator estrutural que sabota o desempenho escolar e o ingresso de jovens da periferia no ensino superior.]`
+`[Seria interessante discutir sobre as falhas estruturais das políticas públicas atuais, para que seja validado de uma vez o argumento de que a exclusão digital impede a equidade educacional na periferia.]`
 
 ### Comentário crítico
 
-`[Concordo plenamente com o argumento de que a falta de um computador em casa sabota a igualdade de condições no vestibular. Entretanto como fragilidade, o texto deixa de lado a dimensão humana e as estratégias locais que os jovens da periferia criam para contornar essas limitações tecnológicas.]`
+`[Os autores realizam uma crítica precisa e necessária: a inclusão digital de jovens periféricos não pode ser tratada como um evento isolado de distribuição de bens, mas sim como um direito contínuo que exige internet estável e suporte social.]`
 
 ## Artigo 2
 
