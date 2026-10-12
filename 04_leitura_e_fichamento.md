@@ -14,12 +14,17 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * Leitor responsável: `[Nicolas Assis]`
 * Data da leitura: `[03/10/2026]`
 
-
 * Referência completa: `[SILVA, L. B. da; et al. Exclusão digital e seus impactos sobre a proficiência no ENEM: um estudo com concluintes do ensino médio de baixa renda entre 2015 e 2023. Educação em Revista, v. 41, e45892, 2025 SciELO.]`
 * DOI ou URL: `[https://www.google.com/goto?url=CAESwQEB6zswFbhKVZmlyuQ5FEYgnYEs7m8cTCsZVXdUrdH4WLhWIU1nWRTdLqqwalSWAnpfKS9pt1rRZhMoyYHmdSvlZWQM88o6qCkhWqPEJ_3jWN_G4uS6LM5nHIUBlligpXIkc4f_TkrZ2fJIJ7uARTt_Bvc0fJYRjKotYdwSp4uadLI9_0nO_NDoxvz4nkSn7OPdxU1HxycHV9uATtAK1B_eoAbrcmZxz5F-wToTEKpXjRu4nbBQuz6kYi91xWjQPol2]`
-* Base de origem: `[SciELO (Scientific Electronic Library Online)]`
+* Base de origem: `[SciELO (Scientific Electronic Library Online]`
 * Leitor responsável: `[Nicolas Assis]`
 * Data da leitura: `[03/10/2026]`
+
+*  Referência completa: `[OLIVEIRA, J. P. de; et al. Exclusão digital e seus impactos no acesso à educação no Brasil. Revista de Geopolítica, v. 17, n. 1, p. 115-128, 2026]`
+* DOI ou URL: `[https://www.google.com/goto?url=CAESawHrOzAVkGph0g2XuHTHf36ma0KgXB4m9dnnZNxwQbZgFnme3D_4sbDDRrZjWuhqED1M1nPPxXBw4KTPa7KOYa-YmOZaCsyQ7oShtxh7ssbpDVzmW46h1Qdf5iCuO0yhZXfPpJRWCGgsAFHO]`
+* Base de origem: `[Revista de Geopolítica / Google Acadêmico]`
+* Leitor responsável: `[Nicolas Assis]`
+* Data da leitura: `[10/10/2026]`
 
 ## Fichamento
 
