@@ -10,7 +10,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Pergunta de pesquisa
 
-`[Num mundo tecnológico como o de hoje, de que maneira a exclusão digital influencia no futuro desses jovens ? ]`
+`[Num mundo tecnológico como o de hoje, de que maneira a exclusão digital influencia no futuro desses jovens? ]`
 
 ## Verificação
 
