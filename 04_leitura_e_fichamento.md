@@ -41,7 +41,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Principais resultados
 
-`[O estudo comprovou que apenas o acesso à internet pelo celular não garante ganhos expressivos no aprendizado formal. O diferencial estatístico na proficiência escolar e nas notas do ENEM ocorre quando o jovem possui a combinação de internet de qualidade e um computador em casa. A ausência dessa estrutura ampliou o abismo educacional pós-pandemia.]`
+`[O estudo comprova que apenas o acesso à internet pelo celular não garante ganhos expressivos no aprendizado formal. O diferencial estatístico na proficiência escolar e nas notas do ENEM ocorre quando o jovem possui a combinação de internet de qualidade e um computador em casa. A ausência dessa estrutura ampliou o abismo educacional pós-pandemia.]`
 
 ### Limitações apresentadas
 
@@ -49,11 +49,11 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Contribuição para o nosso artigo
 
-`[Este estudo nos lembra, ao trazer dados estatísticos concretos e históricos que provam que a exclusão digital não é apenas um problema de comunicação, mas um fator estrutural que sabota o desempenho escolar e o ingresso de jovens da periferia no ensino superior.]`
+`[O estudo nos lembra ao trazer dados estatísticos concretos e históricos que provam que a exclusão digital não é apenas um problema de comunicação, mas um fator estrutural que sabota o desempenho escolar e o ingresso de jovens da periferia no ensino superior.]`
 
 ### Comentário crítico
 
-`[A grande força do estudo está na robustez metodológica, que utiliza dados históricos para provar estatisticamente que o celular sozinho não resolve a exclusão digital. Concorda-se plenamente com o argumento de que a falta de um computador em casa sabota a igualdade de condições no vestibular. Como fragilidade, o texto deixa de lado a dimensão humana e as estratégias locais que os jovens da periferia criam para contornar essas limitações tecnológicas.]`
+`[Concordo plenamente com o argumento de que a falta de um computador em casa sabota a igualdade de condições no vestibular. Entretanto como fragilidade, o texto deixa de lado a dimensão humana e as estratégias locais que os jovens da periferia criam para contornar essas limitações tecnológicas.]`
 
 ### Citação literal opcional
 
