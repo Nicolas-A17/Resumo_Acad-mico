@@ -6,10 +6,10 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-* Título do artigo: `[preencher]`
-* Versão revisada: `[número]`
-* Data: `[dd/mm/aaaa]`
-* Responsável pela conferência final: `[preencher]`
+* Título do artigo: `[Ilusão da Conectividade e o Impacto da Exclusão Digital na Educação de Jovens Periféricos]`
+* Versão revisada: `[1,0]`
+* Data: `[13/10/2026]`
+* Responsável pela conferência final: `[Nicolas Alexandre de Freitas Assis]`
 
 ## Revisão científica
 
