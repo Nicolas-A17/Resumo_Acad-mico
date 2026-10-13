@@ -14,9 +14,9 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[Acesso doméstico e a ilusão da conectividade]`|`[Silva (2025); Silva, L. B. (2025); Oliveira (2026)]`|`[Todos concordam que possuir apenas celulares com pacotes limitados de dados móveis cria uma falsa sensação de inclusão que prejudica o estudo]`|`[preencher]`|`[preencher]`|`[preencher]`|
-|`[Acesso doméstico e a ilusão da conectividade]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
-|`[Acesso doméstico e a ilusão da conectividade]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+| 1 `[Acesso doméstico e a ilusão da conectividade]`|`[Silva (2025); Silva, L. B. (2025); Oliveira (2026)]`|`[Celular e dados limitados geram exclusão velada]`|`[Silva foca em hardware; Oliveira foca na teoria conceitual.]`|`[Recorte estrito em periferias urbanas]`|`[Impacto da queda de dados na constância escolar]`|
+| 2 `[Impactos na nota do ENEM e desigualdade]`|`[Silva, L. B. (2025)]`|`[Falta de PC reduz estatisticamente a nota de baixa renda.]`|`[Abordagem puramente quantitativa e empírica]`|`[Dados restritos a jovens inscritos no exame]`|`[Cruzamento com barreiras psicossociais dos estudantes]`|
+| 3 `[Acesso doméstico e a ilusão da conectividade]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 
 ## Roteiro da revisão da literatura
 
