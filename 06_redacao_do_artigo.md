@@ -20,7 +20,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Metodologia
 
-`[sta pesquisa constitui uma revisão de literatura integrativa. A busca ocorreu nas bases Google Acadêmico e SciELO (período de 2015 a 2026), utilizando os descritores "exclusão digital", "periferia urbana" e "ENEM". Os critérios de inclusão selecionaram três artigos focados em estudantes vulneráveis. A análise dos dados deu-se por síntese cruzada, organizando a literatura em dois eixos temáticos essenciais.]`
+`[Esta pesquisa constitui uma revisão de literatura integrativa. A busca ocorreu nas bases Google Acadêmico e SciELO (período de 2015 a 2026), utilizando os descritores "exclusão digital", "periferia urbana" e "jovens de baixa renda ENEM". Os critérios de inclusão selecionaram três artigos focados em estudantes vulneráveis. A análise dos dados deu-se por síntese cruzada, organizando a literatura em dois eixos temáticos essenciais.]`
 
 ## Revisão da literatura
 
@@ -30,7 +30,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ### `[Eixo 2]`
   
-`[Silva, L. B. da (2025) adota abordagem quantitativa e longitudinal utilizando microdados do ENEM (2015-2023). O estudo prova estatisticamente que a carência de computadores em casa penaliza diretamente as notas de jovens de baixa renda. Esse achado valida empiricamente os debates qualitativos de Silva (2025) e Oliveira (2026), demonstrando que a exclusão digital atua como vetor de reprodução social ao bloquear o acesso à universidade. A limitação metodológica reside na exclusão de jovens vulneráveis que sequer se inscreveram no exame devido ao isolamento digital severo.]`
+`[Silva, L. B. da (2025) utiliza microdados do ENEM (2015-2023). O estudo prova estatisticamente que a carência de computadores em casa penaliza diretamente as notas de jovens de baixa renda. Esse achado valida empiricamente os debates qualitativos de Silva (2025) e Oliveira (2026), demonstrando que a exclusão digital atua como vetor de reprodução social ao bloquear o acesso à universidade. A limitação metodológica reside na exclusão de jovens vulneráveis que sequer se inscreveram no exame devido ao isolamento digital severo.]`
 
 ### Síntese crítica
 
